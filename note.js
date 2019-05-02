@@ -1,16 +1,16 @@
 {
   "expo": {
-    "name": "UmbrellApp",
-    "slug": "umbrellapp",
+    "name": "NoteApp",
+    "slug": "noteapp",
     "privacy": "public",
-    "sdkVersion": "32.0.0",
+    "sdkVersion": "1.0.0",
     "platforms": [
       "ios",
       "android"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
