@@ -1,29 +1,8 @@
 {
-  "expo": {
-    "name": "NoteApp",
-    "slug": "noteapp",
-    "privacy": "public",
-    "sdkVersion": "1.0.0",
-    "platforms": [
-      "ios",
-      "android"
-    ],
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "icon.png",
-    "splash": {
-      "image": "icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
-    }
-  }
+  "title": "NoteApp",
+  "description": "You can make much notes",
+  "movies":[
+    {"title": "Avengers", "releaseYear": "2019"},
+    {"title": "Hulk", "releaseYear": "2006"}
+  ]
 }
