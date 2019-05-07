@@ -1,4 +1,6 @@
 {
+  "name":"flatlist",
+  "displayName":"flatlists",
   "title": "NoteApp",
   "description": "You can make much notes",
   "notes":[
