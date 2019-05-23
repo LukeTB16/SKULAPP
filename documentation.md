@@ -1,4 +1,4 @@
-🅽🅾🆃🅴-🅰🅿🅿
+🆂🅺🆄🅻🅰🅿🅿
 
 Note-app has been made using Expo Snack as FRONT-END and Randomapi.com as BACK-END with APIs.
 
